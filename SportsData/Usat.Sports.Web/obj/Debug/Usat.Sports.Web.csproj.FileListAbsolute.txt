@@ -1,0 +1,4 @@
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Web\bin\Debug\Usat.Sports.Web.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Web\bin\Debug\Usat.Sports.Web.pdb
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Web\obj\Debug\Usat.Sports.Web.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Web\obj\Debug\Usat.Sports.Web.pdb

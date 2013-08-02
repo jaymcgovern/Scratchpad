@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usat.Sports.Business", "..\Usat.Sports.Business\Usat.Sports.Business.csproj", "{467A596C-63B3-4B59-85CB-78A7892B07F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usat.Sports.Services", "..\Usat.Sports.Services\Usat.Sports.Services.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usat.Sports.Web", "..\Usat.Sports.Web\Usat.Sports.Web.csproj", "{B1041639-7A17-45D5-BA14-B4628F42A34B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsServicesWeb", "..\SportsServicesWeb\SportsServicesWeb.csproj", "{455FEEE9-EDDE-4ECF-96FB-ADAFD866D998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467A596C-63B3-4B59-85CB-78A7892B07F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467A596C-63B3-4B59-85CB-78A7892B07F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467A596C-63B3-4B59-85CB-78A7892B07F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467A596C-63B3-4B59-85CB-78A7892B07F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1041639-7A17-45D5-BA14-B4628F42A34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1041639-7A17-45D5-BA14-B4628F42A34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1041639-7A17-45D5-BA14-B4628F42A34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1041639-7A17-45D5-BA14-B4628F42A34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455FEEE9-EDDE-4ECF-96FB-ADAFD866D998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455FEEE9-EDDE-4ECF-96FB-ADAFD866D998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455FEEE9-EDDE-4ECF-96FB-ADAFD866D998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455FEEE9-EDDE-4ECF-96FB-ADAFD866D998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

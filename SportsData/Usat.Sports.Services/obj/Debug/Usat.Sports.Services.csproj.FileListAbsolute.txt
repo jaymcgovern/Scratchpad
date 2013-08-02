@@ -1,0 +1,9 @@
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Usat.Sports.Services.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Usat.Sports.Services.pdb
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\obj\Debug\Usat.Sports.Services.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\obj\Debug\Usat.Sports.Services.pdb
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Usat.Sports.Business.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Usat.Sports.Business.pdb
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Services\obj\Debug\Usat.Sports.Services.csprojResolveAssemblyReference.cache

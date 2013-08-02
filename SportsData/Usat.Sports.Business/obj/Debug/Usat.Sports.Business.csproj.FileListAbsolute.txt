@@ -1,0 +1,12 @@
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\bin\Debug\usat.sports.business.dll
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\bin\Debug\usat.sports.business.pdb
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\obj\Debug\usat.sports.business.dll
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\obj\Debug\usat.sports.business.pdb
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmcgovern\Documents\GitHub\Sports\SportsDataAdmin\usat.sports.business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\bin\Debug\Usat.Sports.Business.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\bin\Debug\Usat.Sports.Business.pdb
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\obj\Debug\Usat.Sports.Business.dll
+C:\Users\jmcgovern\Documents\GitHub\SportsData\Usat.Sports.Business\obj\Debug\Usat.Sports.Business.pdb
